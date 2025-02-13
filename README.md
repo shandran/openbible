@@ -36,5 +36,5 @@ Hovering over a chapter of interest (e.g., Psalm 119) brings up a tooltip giving
 ***
 
 ## *Textus receptus* character count by author
-Analysis of character count in the *Textus receptus* manuscript, summed by author, using plotly interactive bar chart.
+Analysis of character count in the *Textus receptus* manuscript, summed by author, using plotly interactive bar chart. Hovering over a book of interest brings up a tooltip (as shown).
 ![Textus receptus character counts by author](tr_charcount_byauthor_tooltip.png "Textus receptus character counts by author")
